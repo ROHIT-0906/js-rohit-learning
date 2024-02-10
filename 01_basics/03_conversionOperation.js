@@ -1,6 +1,6 @@
-let Score = false
+let Score = true
 
-// let accountValue = Number(Score)
+// let accountValue =String(Score)
 // console.log(typeof (accountValue));
 // console.log(accountValue);
 
@@ -18,7 +18,25 @@ let Score = false
    // "" => false
    // 123 => true
     
-   let someNumber = 33
-   let stringNumber = String(someNumber)
-   console.log(stringNumber);
+   // let someNumber = 
+   // let stringNumber = String(someNumber)
+   // console.log(stringNumber);
+
+
+   // ***************OPERATION***************
+//   console.log(2+2);
+//   console.log(2-2);
+//   console.log(2*2);
+//   console.log(2/2);
+//   console.log(2%2);
+   
+let Str1 = Symbol("Hello")
+console.log(Str1);
+   // let str2 = " =Rohit"
+   // let str3 = Str1 + str2
+   // console.log(str3);
+
+// console.log("1" + 2);
+// console.log(1 + "2" + 2);
+// console.log(1 + "2" + 3 + 3);
 
