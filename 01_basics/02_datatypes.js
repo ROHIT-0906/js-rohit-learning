@@ -7,4 +7,4 @@ let isPresent = true;
 // null => object
 // undefind
 // symbol=>unique,
-console.log(typeof 1234);
+console.log(rollNo);
